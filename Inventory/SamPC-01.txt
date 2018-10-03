@@ -1,0 +1,55 @@
+Windows IP Configuration
+Clinical Directors Office Dr H Abdulla
+   Host Name . . . . . . . . . . . . : SamPC-01
+   Primary Dns Suffix  . . . . . . . : lfc.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : lfc.local
+
+Ethernet adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Juniper Network Connect Virtual Adapter
+   Physical Address. . . . . . . . . : 00-FF-C0-E4-87-88
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : lfc.local
+   Description . . . . . . . . . . . : Intel(R) 82579LM Gigabit Network Connection
+   Physical Address. . . . . . . . . : 34-17-EB-A0-AF-50
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d894:b201:796f:c3b5%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.10.57.85(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 27 September 2018 13:28:13
+   Lease Expires . . . . . . . . . . : 02 October 2018 01:28:12
+   Default Gateway . . . . . . . . . : 10.10.57.254
+   DHCP Server . . . . . . . . . . . : 10.10.57.9
+   DHCPv6 IAID . . . . . . . . . . . : 238295019
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1C-10-D3-CC-34-17-EB-A0-AF-50
+   DNS Servers . . . . . . . . . . . : 10.10.57.9
+                                       10.10.57.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{2C48DF9E-6336-4E0B-A396-0AF42FC5C845}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.lfc.local:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : lfc.local
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
