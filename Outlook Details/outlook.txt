@@ -1,0 +1,4 @@
+LAPTOP-TC4P2KFK
+, Process OUTLOOK, Handles 6270, Memory 120864, CPU Time 00:01:51.8906250,
+   IPv4 Address. . . . . . . . . . . : 192.168.137.1    IPv4 Address. . . . . . . . . . . : 192.168.197.176
+ ,Mac Physical Address    Transport Name                                               00-FF-51-FC-4E-24   Media disconnected                                         C8-5B-76-61-B5-B4   Media disconnected                                         E4-A7-A0-35-DD-47   \Device\Tcpip_{C8E2C3EF-23AC-4F85-9BBD-6C0BC5764386}       E6-A7-A0-35-DD-47   \Device\Tcpip_{4D02F1B5-0B5C-4726-AF14-405C96A147C0}       E4-A7-A0-35-DD-4B   Media disconnected                                        
