@@ -1,0 +1,2 @@
+\\LAPTOP-TC4P2KFK\root\cimv2:Win32_Printer.DeviceID="Fax"
+\\LAPTOP-TC4P2KFK\root\cimv2:Win32_Printer.DeviceID="EPSON13F327 (XP-640 Series)"
