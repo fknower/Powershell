@@ -1,19 +1,20 @@
-#Gets mapped printers on a windows 7 machine. not using get-printer cmdlet
+#Gets Printer Information on a windows 7 machine. not using get-printer cmdlet
 $a = Get-WmiObject -Class Win32_Printer
 
-#Removes junk into a new array
+#Initilizes Object
+$b = @()
 
-#initialize empty array
-$b=@()
+#Removes junk into a new array $_ is the current object
 
-#Removes unneeded elements and stores the result in a new array
+$a | ForEach-Object($_.Name){
+$remove = 0
 
-for($i = 0; $i -lt $a.Length;$i++){
-     if($a[$i].Name -ne "Microsoft XPS Document Writer" -and $a[$i].Name -ne "Send To OneNote 2016" -and $a[$i].Name -ne "Microsoft Print to PDF"){
-#Adds element to array
-   $b += $a[$i]
-     }
+  switch($_.Name){
+   "Send To OneNote 2016" {$remove = 1; break}
+   "Microsoft XPS Document Writer" {$remove = 1; break}
+   "Microsoft Print to PDF" {$remove = 1; break}
+   }
+   if($remove -eq 0 ){
+   $b += $_
+   }
 }
-
-#store result in a file
-Set-Content -LiteralPath C:\test\powershell\Printers\PrinterList.txt -Value $b
