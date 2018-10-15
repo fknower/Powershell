@@ -1,0 +1,506 @@
+Host 10.10.57.1Online False
+
+Host lfcterminal2017.lfc.localOnline True
+
+Host listerdc02.lfc.localOnline True
+
+Host LISTERBACKUPOnline True
+
+Host exchange2014.lfc.localOnline False
+
+Host lfcterminal.lfc.localOnline True
+
+Host 10.10.57.7Online False
+
+Host 10.10.57.8Online False
+
+Host server2012.lfc.localOnline True
+
+Host KM8A0330Online True
+
+Host RNP0026737E4B72Online True
+
+Host 10.10.57.12Online False
+
+Host 10.10.57.13Online False
+
+Host 10.10.57.14Online True
+
+Host 10.10.57.15Online True
+
+Host 10.10.57.16Online True
+
+Host 10.10.57.17Online False
+
+Host KM8A0331Online True
+
+Host 10.10.57.19Online False
+
+Host listlnr01c04.lfc.localOnline True
+
+Host 10.10.57.21Online False
+
+Host 10.10.57.22Online False
+
+Host 10.10.57.23Online False
+
+Host 10.10.57.24Online False
+
+Host 10.10.57.25Online False
+
+Host 10.10.57.26Online False
+
+Host 10.10.57.27Online False
+
+Host 10.10.57.28Online False
+
+Host 10.10.57.29Online False
+
+Host 10.10.57.30Online False
+
+Host 10.10.57.31Online False
+
+Host 10.10.57.32Online False
+
+Host 10.10.57.33Online False
+
+Host 10.10.57.34Online False
+
+Host 10.10.57.35Online False
+
+Host 10.10.57.36Online False
+
+Host 10.10.57.37Online False
+
+Host 10.10.57.38Online False
+
+Host 10.10.57.39Online False
+
+Host 10.10.57.40Online False
+
+Host 10.10.57.41Online False
+
+Host 10.10.57.42Online False
+
+Host 10.10.57.43Online False
+
+Host 10.10.57.44Online False
+
+Host 10.10.57.45Online False
+
+Host 10.10.57.46Online False
+
+Host 10.10.57.47Online False
+
+Host 10.10.57.48Online False
+
+Host 10.10.57.49Online True
+
+Host km7d9215.lfc.localOnline False
+
+Host listlcb01c01.lfc.localOnline True
+
+Host listlus01c01.lfc.localOnline True
+
+Host listlrg01c01.lfc.localOnline True
+
+Host listlnr01c01.lfc.localOnline True
+
+Host listltr01c06.lfc.localOnline True
+
+Host listlrp01c01.lfc.localOnline True
+
+Host listlmr01c01.lfc.localOnline True
+
+Host 10.10.57.58Online True
+
+Host listlmd01c02.lfc.localOnline True
+
+Host listltr01ce2.lfc.localOnline True
+
+Host listlna01c04.lfc.localOnline True
+
+Host listllb01c05.lfc.localOnline True
+
+Host listlcb01c03.lfc.localOnline True
+
+Host listlnr01c06.lfc.localOnline True
+
+Host listlad01c02.lfc.localOnline True
+
+Host listlna01c03.lfc.localOnline True
+
+Host listlcs01c01.lfc.localOnline True
+
+Host listlsw01c01.lfc.localOnline True
+
+Host listllb01c08.lfc.localOnline True
+
+Host listltr01c11.lfc.localOnline True
+
+Host listlad01c05.lfc.localOnline True
+
+Host listllb01s06.lfc.localOnline False
+
+Host listlnr01c05.lfc.localOnline True
+
+Host listllb01s03.lfc.localOnline False
+
+Host listltr01c02.lfc.localOnline True
+
+Host listlmt01c04.lfc.localOnline True
+
+Host listlnr01c02.lfc.localOnline True
+
+Host listlna01c02.lfc.localOnline True
+
+Host listlnr01c03.lfc.localOnline True
+
+Host listlmt01c01.lfc.localOnline True
+
+Host listlcb01c04.lfc.localOnline True
+
+Host listlmt01c05.lfc.localOnline True
+
+Host listllb01c02.lfc.localOnline True
+
+Host 10.10.57.84Online False
+
+Host sampc-01.lfc.localOnline True
+
+Host listllb01c11.lfc.localOnline True
+
+Host listllb01s04.lfc.localOnline False
+
+Host listltr01c04.lfc.localOnline True
+
+Host listllb01c04.lfc.localOnline True
+
+Host 10.10.57.90Online False
+
+Host listlcb01c06.lfc.localOnline False
+
+Host listllb01c03.lfc.localOnline True
+
+Host listlfc01c20.lfc.localOnline True
+
+Host listcad01c01.lfc.localOnline True
+
+Host listlcb01c05.lfc.localOnline True
+
+Host listlmd01c01.lfc.localOnline True
+
+Host 10.10.57.97Online False
+
+Host 10.10.57.98Online False
+
+Host listlrp01c02.lfc.localOnline True
+
+Host listlmt01c02.lfc.localOnline True
+
+Host listlcb01c22.lfc.localOnline False
+
+Host listllb01c06.lfc.localOnline True
+
+Host listltr01c01.lfc.localOnline True
+
+Host 10.10.57.104Online False
+
+Host listlct01c02.lfc.localOnline False
+
+Host LISTLTR01C08.lfc.localOnline True
+
+Host listltr01c10.lfc.localOnline True
+
+Host listlad01c07.lfc.localOnline True
+
+Host listlna01c01.lfc.localOnline True
+
+Host listlad01c01.lfc.localOnline True
+
+Host listlad01c06.lfc.localOnline True
+
+Host user-pc.lfc.localOnline False
+
+Host lfc-hfea.lfc.localOnline True
+
+Host 10.10.57.114Online False
+
+Host desktop-lpphopm.lfc.localOnline False
+
+Host 10.10.57.116Online False
+
+Host pb00483d.lfc.localOnline False
+
+Host 10.10.57.118Online False
+
+Host listllb01s07.lfc.localOnline False
+
+Host listllb01s02.lfc.localOnline False
+
+Host listllb01c10.lfc.localOnline True
+
+Host LISTLCB01C09Online True
+
+Host listllb01s02.lfc.localOnline False
+
+Host listllb01s05.lfc.localOnline False
+
+Host 10.10.57.125Online True
+
+Host 10.10.57.126Online False
+
+Host 10.10.57.127Online False
+
+Host 10.10.57.128Online False
+
+Host listlmt01c03.lfc.localOnline True
+
+Host listllb01s08.lfc.localOnline False
+
+Host 10.10.57.131Online False
+
+Host 10.10.57.132Online False
+
+Host 10.10.57.133Online False
+
+Host 10.10.57.134Online False
+
+Host KM8A5EB1Online True
+
+Host listltr01c07.lfc.localOnline True
+
+Host 10.10.57.137Online False
+
+Host 10.10.57.138Online False
+
+Host 10.10.57.139Online False
+
+Host 10.10.57.140Online False
+
+Host 10.10.57.141Online False
+
+Host 10.10.57.142Online False
+
+Host 10.10.57.143Online False
+
+Host 10.10.57.144Online False
+
+Host 10.10.57.145Online False
+
+Host 10.10.57.146Online False
+
+Host 10.10.57.147Online False
+
+Host 10.10.57.148Online False
+
+Host 10.10.57.149Online False
+
+Host 10.10.57.150Online False
+
+Host 10.10.57.151Online False
+
+Host 10.10.57.152Online False
+
+Host 10.10.57.153Online False
+
+Host 10.10.57.154Online False
+
+Host 10.10.57.155Online False
+
+Host 10.10.57.156Online False
+
+Host 10.10.57.157Online False
+
+Host 10.10.57.158Online False
+
+Host 10.10.57.159Online False
+
+Host 10.10.57.160Online False
+
+Host 10.10.57.161Online False
+
+Host 10.10.57.162Online False
+
+Host 10.10.57.163Online False
+
+Host 10.10.57.164Online False
+
+Host 10.10.57.165Online False
+
+Host 10.10.57.166Online False
+
+Host 10.10.57.167Online False
+
+Host 10.10.57.168Online False
+
+Host 10.10.57.169Online False
+
+Host 10.10.57.170Online False
+
+Host cz1405014y.lfc.localOnline False
+
+Host 10.10.57.172Online False
+
+Host 10.10.57.173Online False
+
+Host 10.10.57.174Online False
+
+Host 10.10.57.175Online False
+
+Host 10.10.57.176Online False
+
+Host 10.10.57.177Online False
+
+Host 10.10.57.178Online False
+
+Host 10.10.57.179Online False
+
+Host 10.10.57.180Online False
+
+Host 10.10.57.181Online False
+
+Host 10.10.57.182Online False
+
+Host 10.10.57.183Online False
+
+Host 10.10.57.184Online False
+
+Host 10.10.57.185Online False
+
+Host 10.10.57.186Online False
+
+Host 10.10.57.187Online False
+
+Host 10.10.57.188Online False
+
+Host 10.10.57.189Online False
+
+Host 10.10.57.190Online False
+
+Host 10.10.57.191Online False
+
+Host 10.10.57.192Online False
+
+Host 10.10.57.193Online False
+
+Host 10.10.57.194Online False
+
+Host 10.10.57.195Online False
+
+Host 10.10.57.196Online False
+
+Host 10.10.57.197Online False
+
+Host 10.10.57.198Online False
+
+Host 10.10.57.199Online False
+
+Host 10.10.57.200Online False
+
+Host 10.10.57.201Online False
+
+Host listlad01c04.lfc.localOnline True
+
+Host 10.10.57.203Online False
+
+Host 10.10.57.204Online False
+
+Host 10.10.57.205Online False
+
+Host 10.10.57.206Online False
+
+Host 10.10.57.207Online False
+
+Host 10.10.57.208Online False
+
+Host 10.10.57.209Online False
+
+Host 10.10.57.210Online False
+
+Host 10.10.57.211Online False
+
+Host 10.10.57.212Online False
+
+Host 10.10.57.213Online False
+
+Host 10.10.57.214Online False
+
+Host 10.10.57.215Online False
+
+Host 10.10.57.216Online False
+
+Host 10.10.57.217Online False
+
+Host 10.10.57.218Online False
+
+Host 10.10.57.219Online False
+
+Host 10.10.57.220Online False
+
+Host 10.10.57.221Online False
+
+Host 10.10.57.222Online False
+
+Host 10.10.57.223Online False
+
+Host 10.10.57.224Online False
+
+Host 10.10.57.225Online False
+
+Host 10.10.57.226Online False
+
+Host 10.10.57.227Online False
+
+Host 10.10.57.228Online False
+
+Host 10.10.57.229Online False
+
+Host 10.10.57.230Online False
+
+Host 10.10.57.231Online False
+
+Host 10.10.57.232Online False
+
+Host 10.10.57.233Online False
+
+Host 10.10.57.234Online False
+
+Host 10.10.57.235Online False
+
+Host 10.10.57.236Online False
+
+Host 10.10.57.237Online False
+
+Host 10.10.57.238Online False
+
+Host 10.10.57.239Online False
+
+Host 10.10.57.240Online False
+
+Host 10.10.57.241Online False
+
+Host 10.10.57.242Online False
+
+Host 10.10.57.243Online False
+
+Host 10.10.57.244Online False
+
+Host 10.10.57.245Online False
+
+Host 10.10.57.246Online False
+
+Host 10.10.57.247Online False
+
+Host 10.10.57.248Online False
+
+Host 10.10.57.249Online False
+
+Host 10.10.57.250Online False
+
+Host 10.10.57.251Online False
+
+Host ARCHER_VR600Online True
+
+Host 10.10.57.253Online False
+
